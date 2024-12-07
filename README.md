@@ -8,9 +8,9 @@ The source of our data is provided below, and we prefered this dataset for its s
 ### Source of Data
 Our dataset came from Kaggle, titled [seattle-weather](https://www.kaggle.com/datasets/mahdiehhajian/seattle-weather), uploaded by user `MAHDIEH HAJIAN`.
 
-### Summary of Result
+## Summary of Result
 
-## Neural Network Training Summary
+### Neural Network Training Summary
 
 ### Training and Testing Performance:
 - The training accuracy improved steadily during the initial epochs but plateaued after epoch 30, reaching an average of around **85%** by the end.
@@ -24,7 +24,7 @@ Our dataset came from Kaggle, titled [seattle-weather](https://www.kaggle.com/da
 
 ---
 
-## SVM Results
+### SVM Results
 
 ### Kernel and Parameter Analysis:
 - **Linear kernel** performed best with larger values of `C`:
@@ -43,7 +43,7 @@ Our dataset came from Kaggle, titled [seattle-weather](https://www.kaggle.com/da
 
 ---
 
-## Logistic Regression Results
+### Logistic Regression Results
 
 ### Performance Across `C` Values:
 - Increasing the value of `C` led to higher accuracy, but diminishing returns were observed:
