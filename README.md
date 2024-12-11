@@ -8,6 +8,23 @@ The source of our data is provided below, and we prefered this dataset for its s
 ### Source of Data
 Our dataset came from Kaggle, titled [seattle-weather](https://www.kaggle.com/datasets/mahdiehhajian/seattle-weather), uploaded by user `MAHDIEH HAJIAN`.
 
+### Project Summary
+
+#### Formulation
+- **Problem Statement**: The problem was clearly defined, focusing on evaluating machine learning models (Neural Networks, SVM, Logistic Regression) for classification tasks.
+- **Objective Alignment**: The formulation tied directly to the goal of identifying the best model and hyperparameter configurations for the dataset.
+
+#### Approach
+- **Neural Network**: A multi-epoch training was conducted with regular accuracy evaluations on training and testing datasets. Overfitting was analyzed based on the performance gap.
+- **SVM**: Various kernels (linear, polynomial, RBF, sigmoid) were tested with multiple `C` values to identify the best combination for accuracy.
+- **Logistic Regression**: Tested across a range of regularization strengths (`C`) with attention to convergence warnings for large values.
+
+#### Evaluation and Interpretation
+- **Testing Methodology**: Comprehensive testing was conducted for all models, ensuring accuracy metrics were evaluated consistently.
+- **Alternative Approaches**: The performance of different kernel functions and regularization strengths highlighted the best and worst methods for the dataset.
+- **Data Usage**: No explicit mention of data preprocessing or augmentation, which could improve model generalization.
+
+
 ## Summary of Result
 
 ### Neural Network Training Summary
