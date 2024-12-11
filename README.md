@@ -67,7 +67,13 @@ Our dataset came from Kaggle, titled [seattle-weather](https://www.kaggle.com/da
   - **Best accuracy:** **83.28%** for `C=1`, `C=10`, and `C=100`.
 - Convergence issues arose for large `C` values, as indicated by warnings to increase `max_iter` or scale the data.
 
-In summary, while all three approaches provided similar levels of accuracy, the Neural Network demonstrated a higher tendency to overfit, SVM's performance depended heavily on kernel choice, and Logistic Regression faced computational challenges with high regularization. The overall comparable results suggest that the choice between these models may depend more on specific dataset characteristics and computational constraints rather than raw performance. 
+In sum, the results of the Neural Network, SVM, and Logistic Regression were very similar, with all three models achieving accuracy levels around **82%-85%**. This suggests that all three approaches performed comparably well on this dataset, with no significant difference in their final outcomes.
+
+
+
+
+
+
 
 
 
