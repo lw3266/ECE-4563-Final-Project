@@ -29,7 +29,7 @@ Our dataset came from Kaggle, titled [seattle-weather](https://www.kaggle.com/da
 
 ## Summary of Result
 
-### Neural Network Training Summary
+### Neural Network Results
 
 ### Training and Testing Performance:
 - The training accuracy improved steadily during the initial epochs but plateaued after epoch 30, reaching an average of around **85%** by the end.
