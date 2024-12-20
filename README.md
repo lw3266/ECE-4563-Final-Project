@@ -1,7 +1,7 @@
 # ECE-4563-Final-Project
 This project is done by Leyang Wang, Zihan Liu, and David Jiang, in Fall 2024.
 
-Our goal aims to utilize our learnings from Intro to Machine Learning, taught by Prof. Sandeep Rangan, to predict weather using past data.
+Our goal aims to utilize our learnings from Intro to Machine Learning, taught by Prof. Sundeep Rangan, to predict weather using past data.
 
 The design is to preict weather using given data of percipation, temperature, and wind on that day. Our goal for this project is to find a good canidate that is suitable for weather prediction. In the future, we may consider actually predicting future weather based on past data.
 
